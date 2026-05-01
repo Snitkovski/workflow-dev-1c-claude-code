@@ -21,6 +21,7 @@ desktop.ini
 
 # Секреты и конфиденциальные данные
 .env
+.dev.env
 *.key
 *-config.local.json
 yougile-state.json
